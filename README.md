@@ -45,10 +45,25 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
+## Output:![Screenshot 2023-11-29 084248](https://github.com/23014287rithik/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150985832/d78c43b9-026c-4abe-b805-a7e7de9fbdce)
+![Screenshot 2023-11-29 084308](https://github.com/23014287rithik/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150985832/454f3912-9bb8-4b21-86c4-42accd3b6b27)
+![Screenshot 2023-11-29 084323](https://github.com/23014287rithik/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150985832/2cfc79d3-817a-40e6-afdb-2a533aebef4a)
+![Screenshot 2023-11-29 084335](https://github.com/23014287rithik/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150985832/c473d409-068f-4726-ae94-2dee31e408e0)
+![Screenshot 2023-11-29 084347](https://github.com/23014287rithik/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150985832/66f453fb-e824-44e0-aea7-b777ecaf571c)
+![Screenshot 2023-11-29 084402](https://github.com/23014287rithik/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150985832/60208dc4-11c3-4a98-84c4-b94076b99c72)
+![Screenshot 2023-11-29 084415](https://github.com/23014287rithik/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150985832/ca9f6cb8-d048-4eea-8b1f-70a2a06791de)
 
-### Name:
-### Register Number:
+
+
+
+
+
+
+
+
+
+### Name:Rithik v 
+### Register Number:23014287
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
